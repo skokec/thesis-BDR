@@ -22,6 +22,8 @@
 \ProvidesClass{FRIteza}[v2.20190305
                         XeLaTeX doctoral dissertation class]
 
+\PassOptionsToPackage{force}{filehook}
+
 \RequirePackage{ifxetex}
 \RequireXeTeX
 
